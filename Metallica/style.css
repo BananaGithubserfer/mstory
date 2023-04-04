@@ -15,3 +15,8 @@ td, th {
 font {
     background-color: rgba(0, 0, 0, 0.3);
 }
+
+audio {
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
